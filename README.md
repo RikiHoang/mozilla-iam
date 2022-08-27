@@ -186,10 +186,10 @@ This is the 2FA/MFA product utilized to augment OpenLDAP with a second-factor.
 - [CONTRIBUTING](CONTRIBUTING.md) A list of principles that we go by when participating to the Mozilla IAM project.
   - [GitHub Security Settings](GitHub-Security-Settings.md) How our repositories are setup in GitHub, and why.
 - [GLOSSARY](GLOSSARY.md) A list of terms that are commonly used in this project, with their definition or explanation.
-- [Auth0 and IAM metrics dashboard](https://biff-5adb6e55.influxcloud.net/d/HuRNN_1Zk/iam-engagement?orgId=1) A dashboard with statistics about Auth0 usage and people.mozilla.org engagement. Note that the access is limited to Mozilla employees.
+- [Auth0 and IAM metrics dashboard](https://biff-5adb6e55.influxcloud.net/d/HuRNN_1Zk/iam-engagement?orgId=1) A dashboard with statistics about Auth0 usage and people.mozilla.org engagement. Note that the access is limited to Mozilla employees
 
 ## Discussion
-- Discourse public, main board: https://discourse.mozilla-community.org/c/iam (iam@mozilla-community.org)
+- Discourse public main board: https://discourse.mozilla-community.org/c/iam (iam@mozilla-community.org)
 - Discourse MOZILLA CONFIDENTIAL board: https://discourse.mozilla-community.org/c/iam/internal (iam+internal@mozilla-community.org) - only use when strictly necessary
 - Slack: https://mozilla.slack.com/messages/G606LM42Y/
 - Slack automated messages/bots/statuses: https://mozilla.slack.com/messages/G92LX4J3T/
